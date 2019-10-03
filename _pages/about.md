@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Renjun Hu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
-
-Lorem ipsum.
+Hi, Welcome to my website. 
