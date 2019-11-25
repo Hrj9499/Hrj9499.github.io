@@ -8,48 +8,54 @@ redirect_from:
 ---
 
 {% include base_path %}
+A number of courses that I have attended in NUS are listed below
 
-Education
+Optimization
 ======
-* B.S.(Hons) in Department of Mathematics, National University of Singapore (NUS), 2019
+* MA3252  Linear and Network Optimization 
+* MA3236  Non-Linear Programming
+* MA4254  Discrete Optimization
+* MA4260  Stochastic Operations Research
+* MA5268  Theory and Algorithms for Nonlinear Optimization (audited)
+* BDC6304 Robust Modelling and Optimization (audited)
+* BDC6302 Discrete Optimization and Algorithm (audited)
 
-Experience
+Analysis
 ======
-* 2018 June - Aug: Research Intern, NUS Business School
-  * Work on combining XGBoost with consecutive optimizer.
-  * Supervisor: Professor Teo Chung-Piaw
+* MA2018  Mathematical Analysis I
+* MA3110  Mathematical Analysis II
+* MA3209  Mathematical Analysis III
+* MA3111  Complex Analysis
+* MA4211  Functional Analysis
+* MA2213  Numerical Analysis
 
-* 2018 Oct - Jan : Research Intern, NUS Business School
-  * Work on improving k-means ambiguity set with kernel methods
-  * Supervisor: Professor Melvyn Sim
-  
-* 2019 Jun - Sept: Research Intern, Singapore-MIT Alliance
-  * Work on choice model, robust optimization and their application to assortment planning.
-  * Supervisor: Professor Patrick Jaillet, Dr. Mai Anh Tien
-
-* 2019 Sept - Now: Research Assistant (full-time), NUS Institute of Operations Research 
-  * Work on structure prediction task in optimization problem 
-  * Supervisor: Professor Cheung Wang-Chi
-
-* 2019 Sept - Now: Data Scientist (joint appt), The Infocomm Media Development Authority of Singapore
-  * Modeling and data analytics for Singapore last-mile delivery system
-  * Collaborator: Dr. Lyu Guodong, Mr. Victor Augusto Fernandez 
-  
-Computer Skills
+Algebra
 ======
-* Julia, Python, R
-* C, Matlab, Latex
-  
-Teaching
-======
-* NUS Department of Electrical & Computer Engineering, 2017
-  * Teaching assistant for INTRODUCTION TO PROGRAMMING WITH PYTHON AND C
+* MA2101  Advanced Linear Algebra
+* MA2202  Algebra I
+* MA4230  Matrix Computation
+* MA4266  Topology (audited)
 
-Service 
+Probability and Stochastics
 ======
-* Student Helper, 2019 MSOM International Conference, Singapore
+* MA2216  Probability
+* ST2132  Mathematical Statistics
+* ST3236  Stochastic Processes I
+* ST4234  Bayesian Statistics 
+* MA5259  Probability Theory (audited)
 
-Awards
-======
-* Singapore SM2 undergraduate Scholarship, Full funding for undergraduate study, 2015-2019
-* S. I. Komarova Scholarship for academic excellence, 2019
+Econometrics and Game Theory
+=====
+* EC3303  Econometrics I
+* EC3101  Microecnomic Analysis II
+* MA4264  Game Theory
+
+Other Math Courses
+=====
+* MA4271  Differential Geometry of Curves and Surfaces
+* MA3269  Mathematical Finance
+* MA3220  Ordinary Differential Geometry
+
+
+
+
