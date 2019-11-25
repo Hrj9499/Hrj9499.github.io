@@ -3,7 +3,7 @@ title: "Consecutive Optimizer for XGBoost"
 collection: research
 permalink: /research/2019-11-25_COX
 excerpt: 'This paper is about testing.'
-paperurl: http://academicpages.github.io/files/Consecutive_Optimizer_for_XGBoost__draft_.pdf
+paperurl: http://Hrj9499.github.io/files/Consecutive_Optimizer_for_XGBoost__draft_.pdf
 
 
 ## Abstract
