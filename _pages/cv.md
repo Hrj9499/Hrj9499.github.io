@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S.(Honours) in Department of Mathematics, National University of Singapore (NUS), 2019
+* B.S.(Hons) in Department of Mathematics, National University of Singapore (NUS), 2019
 
 Experience
 ======
