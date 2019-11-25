@@ -15,28 +15,23 @@ Education
 
 Experience
 ======
-* 2018 June-Aug: Research Intern
-  * NUS Business School
+* 2018 June-Aug: Research Intern, NUS Business School
   * Work on combining XGBoost with consecutive optimizer.
   * Supervisor: Professor Teo Chung-Piaw
 
-* 2018 Oct-Jan: Research Intern
-  * NUS Business School
+* 2018 Oct-Jan: Research Intern, NUS Business School
   * Work on improving k-means ambiguity set with kernel methods
   * Supervisor: Professor Melvyn Sim
   
-* 2019 Jun - Sept: Research Intern
-  * Singapore-MIT Alliance
+* 2019 Jun - Sept: Research Intern, Singapore-MIT Alliance
   * Work on choice model, robust optimization and their application to assortment planning.
   * Supervisor: Professor Patrick Jaillet, Dr. Mai Anh Tien
 
-* 2019 Sept - Now: Research Assistant (full-time)
-  * NUS Institute of Operations Research  
+* 2019 Sept - Now: Research Assistant (full-time), NUS Institute of Operations Research 
   * Work on structure prediction task in optimization problem 
   * Supervisor: Professor Cheung Wang-Chi
 
-* 2019 Sept - Now: Data Scientist (joint appointment)
-  * The Infocomm Media Development Authority of Singapore
+* 2019 Sept - Now: Data Scientist (joint appt), The Infocomm Media Development Authority of Singapore
   * Modeling and data analytics for Singapore last-mile delivery system
   * Collaborator: Dr. Lyu Guodong, Mr. Victor Augusto Fernandez 
   
@@ -53,3 +48,8 @@ Teaching
 Service 
 ======
 * Student Helper, 2019 MSOM International Conference, Singapore
+
+Awards
+======
+* Singapore SM2 undergraduate Scholarship, Full funding for undergraduate study, 2015-2019
+* S. I. Komarova Scholarship for academic excellence, 2019
