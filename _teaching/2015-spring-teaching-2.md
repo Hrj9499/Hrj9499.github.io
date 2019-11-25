@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistance"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2017-fall-teaching
+venue: "National University of Singpaore, Department of Electrical and Computer Engineering"
+date: 2017-08-31
+location: "Singpore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for module INTRODUCTION TO PROGRAMMING WITH PYTHON AND C. Works included teaching tutorial sessions, grading homework, and managing the online teaching system (Coursemology).
 
 Heading 1
 ======
 
-Heading 2
-======
 
-Heading 3
-======
