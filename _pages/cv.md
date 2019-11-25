@@ -15,11 +15,11 @@ Education
 
 Experience
 ======
-* 2018 June-Aug: Research Intern, NUS Business School
+* 2018 June - Aug: Research Intern, NUS Business School
   * Work on combining XGBoost with consecutive optimizer.
   * Supervisor: Professor Teo Chung-Piaw
 
-* 2018 Oct-Jan: Research Intern, NUS Business School
+* 2018 Oct - Jan : Research Intern, NUS Business School
   * Work on improving k-means ambiguity set with kernel methods
   * Supervisor: Professor Melvyn Sim
   
