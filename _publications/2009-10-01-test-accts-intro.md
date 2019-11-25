@@ -1,7 +1,7 @@
 ---
 title: "Consecutive Optimizer for XGBoost"
-collection: publications
-permalink: /publications/2019-11-25_COX
+collection: research
+permalink: /research/2019-11-25_COX
 excerpt: 'This paper is about testing.'
 date: 2019-11-25
 paperurl: http://academicpages.github.io/files/Consecutive_Optimizer_for_XGBoost__draft_.pdf
