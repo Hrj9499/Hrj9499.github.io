@@ -44,12 +44,6 @@ Computer Skills
 ======
 * Julia, Python, R
 * C, Matlab, Latex
-
-Research Works
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
   
 Teaching
 ======
