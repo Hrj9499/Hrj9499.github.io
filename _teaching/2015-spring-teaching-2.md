@@ -3,7 +3,7 @@ title: "Teaching Assistance"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2017-fall-teaching
-"National University of Singpaore, Department of Electrical and Computer Engineering"
+venue: "National University of Singpaore, Department of Electrical and Computer Engineering"
 date: 2017-08-31
 location: "Singpore"
 ---
