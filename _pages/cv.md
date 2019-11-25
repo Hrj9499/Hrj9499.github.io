@@ -47,9 +47,9 @@ Computer Skills
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  
+* NUS Department of Electrical & Computer Engineering, 2017
+  * Teaching assistant for INTRODUCTION TO PROGRAMMING WITH PYTHON AND C
+
 Service 
 ======
 * Student Helper, 2019 MSOM International Conference, Singapore
