@@ -2,7 +2,7 @@
 title: "Consecutive Optimizer for XGBoost"
 collection: research
 permalink: /research/2019-11-25_COX
-excerpt: 'This paper is about testing.'
+excerpt: 'Research work on combining machine learning algorithm with combinatorial optimization with Prof Teo Chung-Piaw'
 paperurl: http://hrj9499.github.io/files/Consecutive_Optimizer_for_XGBoost__draft_.pdf
 ---
 
