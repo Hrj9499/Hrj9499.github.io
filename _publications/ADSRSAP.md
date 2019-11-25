@@ -13,4 +13,4 @@ paperurl: http://hrj9499.github.io/files/Adaptive_Rank_Sampling_and_updating_wit
 In this paper, we show connections between parametric and rank-based choice models. We propose a new approach to sample ranks and update their distribution from population. We then propose a data-driven robust optimization model, i.e., likelihood robust optimization, for non-parametric assortment planning and we show how to solve the robust model in a tractable way. We provide experimental results using a real-like retail dataset, which shows the efficiency of our rank sampling approach and the tractability of our robust method.
 
 ## Link
-paperurl: http://hrj9499.github.io/files/Adaptive_Rank_Sampling_and_updating_with_robust_solution_for_non_parametric_assortment_planning.pdf
+http://hrj9499.github.io/files/Adaptive_Rank_Sampling_and_updating_with_robust_solution_for_non_parametric_assortment_planning.pdf
