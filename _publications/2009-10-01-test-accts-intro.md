@@ -1,11 +1,10 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Consecutive Optimizer for XGBoost"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
-venue: "Testing Studies"
+permalink: /publications/2019-11-25_COX
 excerpt: 'This paper is about testing.'
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
+date: 2019-11-25
+paperurl: http://academicpages.github.io/files/Consecutive_Optimizer_for_XGBoost__draft_.pdf
 citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
 ---
 
